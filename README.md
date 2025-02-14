@@ -1,1 +1,1 @@
-Personal projects for fun
+AI projects for fun
